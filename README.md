@@ -1,11 +1,14 @@
 # AI Interview Bot
 
-A Smart HR Mock Interview System using Generative AI
+**A Smart HR Mock Interview System using Generative AI**
 
-AI Interview Bot is a smart mock interview application built to help fresher candidates practice interviews in a realistic way.
-It asks interview questions, evaluates answers, and gives friendly, human-like feedback using Generative AI.
+AI Interview Bot is a smart mock interview application built to help fresher candidates practice interviews in a realistic and stress-free way. It asks interview questions, evaluates candidate answers, and provides friendly, human-like feedback using Generative AI.
 
-The interview is customized based on the job description, candidate resume, and difficulty level.
+The interview experience is fully customized based on the job description, candidate resume, and selected difficulty level, making each session more personalized and relevant.
+
+After the interview is completed, the system generates a detailed feedback report containing all questions, answers, scores, and improvement suggestions. This report can be downloaded as a PDF, allowing candidates to review their performance anytime.
+
+The entire project is containerized using Docker, ensuring consistent setup, easy deployment, and smooth execution across different environments.
 
 ## What this project does
 * Lets users upload their resume (PDF/TXT)
