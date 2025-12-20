@@ -78,8 +78,7 @@ AI-Interview-Bot/
 
 ### Step 1: Clone the project
 
-```bash
-git clone https://github.com/your-username/AI-Interview-Bot.git```
+`git clone https://github.com/your-username/AI-Interview-Bot.git`
 
 `cd AI-Interview-Bot`
 
