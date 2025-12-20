@@ -102,6 +102,26 @@ Edit .env file:
 
 `streamlit run app.py`
 
+## Run the app using Docker
+
+#### Run the Project Using Docker (optional)
+
+Make sure Docker Desktop is installed and running before executing the commands below.
+
+This project is containerized using Docker, so you don’t need to install Python or dependencies manually.
+
+**Step 1: Build the Docker Image**
+
+`docker build -t ai-interview-bot .`
+
+**Step 2: Run the Container**
+
+`docker run -p 8501:8501 ai-interview-bot`
+
+After running the container, open your browser and visit:
+
+`http://localhost:8501`
+
 ## Who can use this project?
 
 Freshers preparing for interviews
