@@ -8,28 +8,28 @@ It asks interview questions, evaluates answers, and gives friendly, human-like f
 The interview is customized based on the job description, candidate resume, and difficulty level.
 
 ## What this project does
-– Lets users upload their resume (PDF/TXT)
+* Lets users upload their resume (PDF/TXT)
 
-– Takes a job description
+* Takes a job description
 
-– Generates interview questions using AI
+* Generates interview questions using AI
 
-– Evaluates answers and gives encouraging feedback
+* Evaluates answers and gives encouraging feedback
 
-– Adjusts question difficulty based on performance
+* Adjusts question difficulty based on performance
 
-– Shows a final interview summary with scores and feedback
+* Shows a final interview summary with scores and feedback
 
 ## Techs Used
-– Python
+* Python
 
-– Streamlit – for the user interface
+* Streamlit – for the user interface
 
-– Google Gemini LLM (2.5 Flash) – for questions and evaluation
+* Google Gemini LLM (2.5 Flash) – for questions and evaluation
 
-– PyPDF2 – to extract text from resumes
+* PyPDF2 – to extract text from resumes
 
-– python-dotenv – for API key management
+* python-dotenv – for API key management
 
 ## Project Structure
 AI-Interview-Bot/
