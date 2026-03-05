@@ -99,7 +99,7 @@ AI-Interview-Bot/
 3. Click on **"Get API Key"** (top right corner).
 4. Select **"Create API Key"**.
 5. Copy the generated API key.
-6. Open the `.env` file in your project and add:
+6. Open the `.env` file in the project and add:
 `GEMINI_API_KEY=your_api_key_here`
 
 
@@ -118,7 +118,7 @@ This project is containerized using Docker, so you don’t need to install Pytho
 
 **Step 1: Build the Docker Image**
 
-`docker build -t InterviewGenie_AI-Powered-Mock-Interview-Platform .`
+`docker build -t InterviewGenie_AI-Powered-Mock-Interview-Platform`
 
 **Step 2: Run the Container**
 
