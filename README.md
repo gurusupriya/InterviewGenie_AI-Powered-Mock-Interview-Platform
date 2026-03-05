@@ -94,9 +94,15 @@ AI-Interview-Bot/
 
 ### Step 4: Add Gemini API key
 
-Edit .env file:
-
+1. Go to **Google AI Studio**: https://aistudio.google.com/
+2. Sign in with your **Google account**.
+3. Click on **"Get API Key"**.
+4. Select **"Create API Key"**.
+5. Copy the generated API key.
+6. Open the `.env` file in your project and add:
 `GEMINI_API_KEY=your_api_key_here`
+
+
 
 ### Step 5: Run the app
 
