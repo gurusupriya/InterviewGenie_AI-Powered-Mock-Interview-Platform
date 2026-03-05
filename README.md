@@ -1,8 +1,8 @@
-# AI Interview Bot
+# InterviewGenie
 
-**A Smart HR Mock Interview System using Generative AI**
+**A Smart Mock Interview System using Generative AI**
 
-AI Interview Bot is a smart mock interview application built to help fresher candidates practice interviews in a realistic and stress-free way. It asks interview questions, evaluates candidate answers, and provides friendly, human-like feedback using Generative AI.
+InterviewGenie is a smart mock interview application built to help fresher candidates practice interviews in a realistic and stress-free way. It asks interview questions, evaluates candidate answers, and provides friendly, human-like feedback using Generative AI.
 
 The interview experience is fully customized based on the job description, candidate resume, and selected difficulty level, making each session more personalized and relevant.
 
@@ -11,9 +11,9 @@ After the interview is completed, the system generates a detailed feedback repor
 The entire project is containerized using Docker, ensuring consistent setup, easy deployment, and smooth execution across different environments.
 
 ## What this project does
-* Lets users upload their resume (PDF/TXT)
+* Lets users upload their resume (PDF)
 
-* Takes a job description
+* Takes a job description (TXT)
 
 * Generates interview questions using AI
 
@@ -78,9 +78,9 @@ AI-Interview-Bot/
 
 ### Step 1: Clone the project
 
-`git clone https://github.com/your-username/AI-Interview-Bot.git`
+`git clone https://github.com/gurusupriya/InterviewGenie_AI-Powered-Mock-Interview-Platform.git`
 
-`cd AI-Interview-Bot`
+`cd InterviewGenie_AI-Powered-Mock-Interview-Platform`
 
 ### Step 2: Create a virtual environment
 
@@ -112,7 +112,7 @@ This project is containerized using Docker, so you don’t need to install Pytho
 
 **Step 1: Build the Docker Image**
 
-`docker build -t ai-interview-bot .`
+`docker build -t InterviewGenie_AI-Powered-Mock-Interview-Platform .`
 
 **Step 2: Run the Container**
 
