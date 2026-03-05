@@ -96,7 +96,7 @@ AI-Interview-Bot/
 
 1. Go to **Google AI Studio**: https://aistudio.google.com/
 2. Sign in with your **Google account**.
-3. Click on **"Get API Key"**.
+3. Click on **"Get API Key"** (top right corner).
 4. Select **"Create API Key"**.
 5. Copy the generated API key.
 6. Open the `.env` file in your project and add:
