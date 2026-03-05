@@ -122,7 +122,7 @@ This project is containerized using Docker, so you don’t need to install Pytho
 
 **Step 2: Run the Container**
 
-`docker run -p 8501:8501 InterviewGenie_AI-Powered-Mock-Interview-Platform`
+`docker run -p 8501:8501 InterviewGenie_AI-Powered-Mock-Interview-Platform .`
 
 After running the container, open your browser and visit:
 
