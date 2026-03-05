@@ -10,6 +10,11 @@ After the interview is completed, the system generates a detailed feedback repor
 
 The entire project is containerized using Docker, ensuring consistent setup, easy deployment, and smooth execution across different environments.
 
+## Live Demo
+
+Try InterviewGenie here:  
+https://interviewgenie-ai.streamlit.app/
+
 ## What this project does
 * Lets users upload their resume (PDF)
 
